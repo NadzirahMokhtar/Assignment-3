@@ -1,0 +1,4 @@
+Bill  Advertising  Salary  Sales  Net Profit  
+____
+3000     600       2800    1000    -5400.0  
+____
